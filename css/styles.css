@@ -116,3 +116,30 @@ a:hover{
     font-size: 0.75rem;
     padding: 20px 0;
 }
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #119992);
+    background-image: -moz-linear-gradient(top, #11CDD4, #119992);
+    background-image: -ms-linear-gradient(top, #11CDD4, #119992);
+    background-image: -o-linear-gradient(top, #11CDD4, #119992);
+    background-image: linear-gradient(to bottom, #11CDD4, #119992);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
